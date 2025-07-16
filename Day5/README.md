@@ -32,7 +32,7 @@ On Day 5, I:
 ## 🔗 Resources Used
 - [Python For Loops - W3Schools](https://www.w3schools.com/python/python_for_loops.asp)
 - [Python range() - Real Python](https://realpython.com/python-range/)
-- [FizzBuzz Problem - GeeksforGeeks](https://www.geeksforgeeks.org/fizz-buzz/)
+- [FizzBuzz Problem - GeeksforGeeks](https://www.geeksforgeeks.org/python/fizz-buzz-in-python/)
 - [Random Password Generator - Python](https://www.w3schools.com/python/ref_random_shuffle.asp)
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
