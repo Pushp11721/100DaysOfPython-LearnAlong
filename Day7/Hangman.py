@@ -59,11 +59,11 @@ stages=[r'''
 '''
 ]
 
-word_list=["aardvark","baboon","camel"]
+word_list=["aardvark","baboon","camel"]#You can take words of your choice or in the future come back and use some API's for it:)
 
-#Randomly choose a word from the world_list and assign it to a variable called chosen_word. Then print it
+#Randomly choose a word from the world_list and assign it to a variable called chosen_word.
 chosen_word=random.choice(word_list)
-print(chosen_word)
+# print(chosen_word)
 display=""
 for i in range(0,len(chosen_word)):
     display+="_"
