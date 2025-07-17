@@ -29,7 +29,7 @@ On Day 8, I:
 - Simple loops, conditions, and indexing can build real-world logic like encoders/decoders.
 
 ## 🔗 Resources Used
-- [Python Function Parameters - W3Schools](https://www.w3schools.com/python/gloss_python_function_parameters.asp)
+- [Python Function Parameters - W3Schools](https://www.w3schools.com/python/python_functions.asp)
 - [Caesar Cipher - Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
