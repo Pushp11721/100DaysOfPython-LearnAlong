@@ -4,7 +4,7 @@ def format_name(f_name,l_name):
         return "You did not provide valid inputs."
     return (f_name+" "+l_name).title()
 
-print(format_name("pushpendra","singh"))
+print(format_name("Obito","Uchiha"))
 
 def function1(text):
     '''Double The exact string'''
