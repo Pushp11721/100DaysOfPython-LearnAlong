@@ -70,4 +70,4 @@ On Day 18, I explored the **Turtle graphics** module in-depth to build interacti
 
 > 💬 These codes are written as part of my hands-on learning. Bugs, suggestions, or contributions are always welcome!
 
-> 💡 This is part of my #100DaysOfPython challenge. Follow the journey on GitHub: [Pushp11721/100DaysOfPython-LearnAlong](https://github.com/Pushp11721/100DaysOfPython-LearnAlong)
+> 💡 This is part of my #100DaysOfPython challenge. Follow the journey on GitHub: [here](https://github.com/Pushp11721/100DaysOfPython-LearnAlong)
