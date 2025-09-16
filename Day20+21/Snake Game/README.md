@@ -18,11 +18,11 @@ The game keeps track of the **current score** and saves the **high score** in a 
 
 ## 📂 Project Structure
 Snake-Game/
-- 'main.py': # Main game loop
-- 'snake.py': # Snake class (movement, growth, reset)
-- 'food.py': # Food class (random placement)
-- 'scoreboard.py': # Scoreboard (score + high score)
-- 'data.txt': # Stores high score
+- `main.py`: # Main game loop
+- `snake.py`: # Snake class (movement, growth, reset)
+- `food.py`: # Food class (random placement)
+- `scoreboard.py`: # Scoreboard (score + high score)
+- `data.txt`: # Stores high score
 
 ---
 
