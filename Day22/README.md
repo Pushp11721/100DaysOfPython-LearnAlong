@@ -43,8 +43,8 @@
   - `W` → Move Up  
   - `S` → Move Down  
 
-## Screenshot
-![Game Screenshot](Resources/Pong_Demo.png)
+## 📸Screenshot
+![Game Screenshot](Resource/Pong_Demo.png)
 
 ## 📝 Summary
 On Day 22, I:
