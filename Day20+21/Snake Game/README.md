@@ -26,6 +26,16 @@ Snake-Game/
 
 ---
 
+## 🏆 High Score System
+- The game saves the highest score in data.txt.
+- If you beat the high score, it automatically updates the file.
+- Your record is safe even after exiting the game.
+
+---
+
+## 📸Screenshot
+![Game Screenshot](Resource/Snake_Game_Demo.png)
+
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
@@ -43,11 +53,6 @@ Snake-Game/
 ## 📌 Requirements
 - Python 3.x
 - turtle module (comes pre-installed with Python)
-
-## 🏆 High Score System
-- The game saves the highest score in data.txt.
-- If you beat the high score, it automatically updates the file.
-- Your record is safe even after exiting the game.
 
 ## 🤝 Contributing
 - Pull requests are welcome!
