@@ -30,6 +30,10 @@
     - Turtles move forward randomly until one crosses the finish line.
     - The program announces if the user won or lost.
 
+## 📸Screenshots
+![Game Screenshot](Resource/Turtle_Race_Demo1.png)
+![Game Screenshot](Resource/Turtle_Race_Demo2.png)
+
 ## 📝 Summary
 On Day 19, I explored **event-driven programming** with Turtle:
 - Learned to bind keys to functions using `onkey()` for interactive movement.
